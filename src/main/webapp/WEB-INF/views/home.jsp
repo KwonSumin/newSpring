@@ -6,9 +6,7 @@
 	<meta charset="utf-8">
 </head>
 <body>
-<h1>
-테스트 수정.
-</h1>
+
 
 <P>  The time on the server is ${serverTime}. </P>
 </body>
